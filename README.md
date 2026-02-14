@@ -26,7 +26,4 @@ It is created for **educational purposes only** to understand password security.
 This project is for learning and demonstration purposes only.
 It should NOT be used for illegal or unethical activities.
 
-▶ How to Run
-```bash
-python brute_force.py
 
