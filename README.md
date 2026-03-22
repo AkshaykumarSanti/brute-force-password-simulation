@@ -12,9 +12,9 @@ Command-line simulation
 
 🛠 Tools & Libraries
 
-Python
-random
-time
+Python,
+random,
+time,
 os
 
 📚 Skills Gained
