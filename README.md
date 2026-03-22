@@ -1,28 +1,28 @@
-🔐 Brute Force Password Attack Simulation (Python)
+🔐 Brute Force Password Cracking Simulation (Python)
 
-This project demonstrates how a brute-force attack works by repeatedly guessing a password using a predefined set of characters.
-It is created strictly for educational purposes to understand password security concepts.
+This program simulates a brute-force attack by continuously attempting to guess a password from a defined character set.
+It is built purely for educational use to demonstrate how password security can be compromised.
 
-🚀 Features
+🚀 Key Features
 
-Random password generation
-Attempt counter
-Execution time measurement
-Console-based simulation
+Automatic password guessing
+Attempt tracking
+Time taken calculation
+Terminal-based simulation
 
-🛠 Technologies Used
+🛠 Tech Stack
 
 Python
-random
-time
-os
+random module
+time module
+os module
 
-📚 What I Learned
+📚 Learning Outcomes
 
-Basics of brute-force attack techniques
-Time complexity in password cracking
-Importance of strong passwords
-Python loops and randomness
+Understanding brute-force attack methodology
+Performance and time complexity considerations
+Need for strong and complex passwords
+Practical use of loops and randomization in Python
 
 ⚠ Disclaimer
-This project is intended for learning and demonstration only. It must NOT be used for any illegal or unethical purposes.
+For educational purposes only. Do not use this tool for unauthorized access or malicious activities.
