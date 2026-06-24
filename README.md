@@ -10,7 +10,7 @@ A Python-based educational project that demonstrates how brute-force password at
 # 🚀 Features
 
 ✅ Randomized password generation attempts  
-⏱️ Measures total execution times
+⏱️ Measures total execution time
 📊 Counts the number of attempts required  
 🖥️ Command-line based simulation  
 🔍 Demonstrates password security concepts  
